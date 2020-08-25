@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="someone_has_won">Someone has won</string>
+    <string name="play_again">"    Play Again    "</string>
+    <string name="match_drawn">\" Match has been Drawn \"</string>
+    <string name="has_won">" Has Won"</string>
+</resources>
